@@ -6,6 +6,5 @@ Coloca essas notas em uma planilha Excel, desenvolvida pelo <a href="https://git
 Essa planilha faz a conta para ver quanto falta para ser aprovado na matéria ou se já foi aprovado. O mesmo acontece em relação as áreas de ensino.
 Ao fim, o programa envia esse Excel pelo email que o usuário passou.
 
-Versão com o Win32.
-
+Versão com o Win32.<br>
 A diferença entre a <a href="https://github.com/jesbicaa/AutomacaoExcelNotas_Openpyxl">Versão com Openpyxl</a> é a biblioteca usada para o envio de email. Essa versão tem o Outlook como requisito mínimo.
