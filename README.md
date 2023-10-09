@@ -1,0 +1,1 @@
+# AutomacaoExcelNotas_Win32
